@@ -1,0 +1,7 @@
+[
+  {"nume": "Eduard", "post": "Zugrav", "data_angajare": "2023-02-27", "salariu": 2500 },
+  {"nume": "Maria", "post": "Bucatar", "data_angajare": "2022-04-21", "salariu": 4300.5 },
+  {"nume": "Alicia", "post": "director", "data_angajare": "2023-06-01", "salariu": 1560 },
+  {"nume": "Alecsia", "post": "Cantareata", "data_angajare": "2021-02-23", "salariu": 3500 },
+  {"nume": "Ion", "post": "sef", "data_angajare": "2023-08-08", "salariu": 2700 }
+]
