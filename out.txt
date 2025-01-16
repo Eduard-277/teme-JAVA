@@ -1,0 +1,4 @@
+Suma numerelor din fisier este: 27
+Media aritmetica a numerelor din fisier este: 4.5
+Minimul numerelor din fisier este: 8
+Maximul numerelor din fisier este: 2
