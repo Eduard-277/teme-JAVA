@@ -1,1 +1,1 @@
-Fiecare branch contine codul aferent temei din laboratorul cu aceeasi denumire cu branch-ul.
+Fiecare branch contine fisierele aferente temei din laboratorul cu aceeasi denumire cu branch-ul.
