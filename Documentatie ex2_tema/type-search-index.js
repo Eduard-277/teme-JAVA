@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ex2_tema","l":"MainApp"},{"p":"ex2_tema","l":"PerecheNumere"}];updateSearchResults();
